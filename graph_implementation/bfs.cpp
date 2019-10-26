@@ -46,5 +46,5 @@ int main(){
 	memset(visited,false,sizeof(visited));
 	ans=bfs(a);
 	cout<<ans<<endl;
-	
+
 }
